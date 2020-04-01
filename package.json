@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "homepage for studion Events provider and service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe223-ux/studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "Felipe theisen\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\tTh\u001b[D\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ Theisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe223-ux/studion/issues"
+  },
+  "homepage": "https://github.com/felipe223-ux/studion#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
